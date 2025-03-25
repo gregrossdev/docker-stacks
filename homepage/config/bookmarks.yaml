@@ -8,6 +8,6 @@
           href: https://todoist.com/
           description: Task management and daily planning
     - Notion:
-        - icon: notion
+        - icon: todoist
           href: https://notion.so/
           description: Projects, notes, and writing ideas
