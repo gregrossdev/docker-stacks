@@ -2,7 +2,7 @@
 - Infrastructure Management:
     - Proxmox:
         icon: mdi-server
-        href: https://prox.gregross.lan:8006
+        href: https://proxmox.homelab.lan
         description: Hypervisor and VM host
 
 - Network Services:
