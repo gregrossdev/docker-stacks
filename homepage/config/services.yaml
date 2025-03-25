@@ -1,4 +1,10 @@
 ---
+- Infrastructure Management:
+    - Proxmox:
+        icon: mdi-server
+        href: https://prox.gregross.lan:8006
+        description: Hypervisor and VM host
+
 - Network Services:
     - Pi-hole:
         icon: mdi-pi-hole
@@ -9,3 +15,9 @@
         icon: mdi-server
         href: http://nginx-proxy-manager.homelab.lan
         description: Reverse proxy UI
+
+- Container Management:
+    - Komodo:
+        icon: mdi-docker
+        href: http://komodo.homelab.lan
+        description: Docker container management UI
