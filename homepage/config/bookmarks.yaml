@@ -1,2 +1,13 @@
 ---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
 
+- Life Ops:
+    - Todoist:
+        - icon: todoist
+          href: https://todoist.com/
+          description: Task management and daily planning
+    - Notion:
+        - icon: notion
+          href: https://notion.so/
+          description: Projects, notes, and writing ideas
