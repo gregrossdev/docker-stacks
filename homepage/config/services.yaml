@@ -1,0 +1,11 @@
+---
+- Network Services:
+    - Pi-hole:
+        icon: mdi-pi-hole
+        href: http://pihole.homelab.lan/admin/
+        description: DNS and ad-blocking
+
+    - Nginx Proxy Manager:
+        icon: mdi-server
+        href: http://nginx-proxy-manager.homelab.lan
+        description: Reverse proxy UI
