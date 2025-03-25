@@ -2,7 +2,7 @@
 - Infrastructure Management:
     - Proxmox:
         icon: mdi-server
-        href: https://proxmox.homelab.lan
+        href: http://proxmox.homelab.lan
         description: Hypervisor and VM host
 
 - Network Services:
