@@ -11,3 +11,8 @@
         - icon: todoist
           href: https://notion.so/
           description: Projects, notes, and writing ideas
+- Dev Ops:
+    - Github:
+        - icon: github
+          href: https://github.com/gregrossdev/docker-stacks
+          description: Homelab Repo
