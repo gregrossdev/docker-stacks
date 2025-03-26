@@ -3,10 +3,6 @@
 # https://gethomepage.dev/configs/bookmarks
 
 - Dev Ops:
-    - Github:
-        - icon: github
-          href: https://github.com/gregrossdev/docker-stacks
-          description: Homelab Repo
     - Homepage:
         - icon: homepage
           href: https://github.com/gregrossdev/docker-stacks/tree/homepage/homepage
