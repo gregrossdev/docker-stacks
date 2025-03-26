@@ -8,11 +8,11 @@
           href: https://github.com/gregrossdev/docker-stacks
           description: Homelab Repo
     - Homepage:
-        - icon: github
+        - icon: homepage
           href: https://github.com/gregrossdev/docker-stacks/tree/homepage/homepage
           description: Homepage directory on GitHub
     - Hoarder:
-        - icon: library
+        - icon: hoarder
           href: https://hoarder.homelab.gregross.dev
           description: Self-hosted bookmarking app
 
@@ -22,6 +22,6 @@
           href: https://todoist.com/
           description: Task management and daily planning
     - Notion:
-        - icon: todoist
+        - icon: notion
           href: https://notion.so/
           description: Projects, notes, and writing ideas
