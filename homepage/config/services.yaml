@@ -2,22 +2,22 @@
 - Infrastructure Management:
     - Proxmox:
         icon: mdi-server
-        href: http://proxmox.homelab.lan
+        href: http://proxmox.homelab.gregross.dev
         description: Hypervisor and VM host
 
 - Network Services:
     - Pi-hole:
         icon: mdi-pi-hole
-        href: http://pihole.homelab.lan/admin/
+        href: http://pihole.homelab.gregross.dev/admin/
         description: DNS and ad-blocking
 
     - Nginx Proxy Manager:
         icon: mdi-server
-        href: http://nginx-proxy-manager.homelab.lan
+        href: http://nginx-proxy-manager.homelab.gregross.dev
         description: Reverse proxy UI
 
 - Container Management:
     - Komodo:
         icon: mdi-docker
-        href: http://komodo.homelab.lan
+        href: http://komodo.homelab.gregross.dev
         description: Docker container management UI
