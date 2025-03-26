@@ -12,7 +12,7 @@
           href: https://github.com/gregrossdev/docker-stacks/tree/homepage/homepage
           description: Homepage directory on GitHub
     - Hoarder:
-        - icon: bookmark
+        - icon: library
           href: https://hoarder.homelab.gregross.dev
           description: Self-hosted bookmarking app
 
