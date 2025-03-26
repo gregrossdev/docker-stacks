@@ -3,10 +3,18 @@
 # https://gethomepage.dev/configs/bookmarks
 
 - Dev Ops:
+    - Github:
+        - icon: github
+          href: https://github.com/gregrossdev/docker-stacks
+          description: Homelab Repo
     - Homepage:
         - icon: github
           href: https://github.com/gregrossdev/docker-stacks/tree/homepage/homepage
           description: Homepage directory on GitHub
+    - Hoarder:
+        - icon: bookmark
+          href: https://hoarder.homelab.gregross.dev
+          description: Self-hosted bookmarking app
 
 - Life Ops:
     - Todoist:
@@ -17,8 +25,3 @@
         - icon: todoist
           href: https://notion.so/
           description: Projects, notes, and writing ideas
-- Dev Ops:
-    - Github:
-        - icon: github
-          href: https://github.com/gregrossdev/docker-stacks
-          description: Homelab Repo
