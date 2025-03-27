@@ -15,6 +15,11 @@
         - icon: n8n
           href: https://n8n.homelab.gregross.dev
           description: Automation workflow platform
+    - Vaultwarden:
+        - icon: vaultwarden
+          href: https://passwords.homelab.gregross.dev
+          description: Self-hosted password manager
+
 
 - Life Ops:
     - Todoist:
