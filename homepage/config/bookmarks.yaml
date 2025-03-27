@@ -11,6 +11,10 @@
         - icon: hoarder
           href: https://hoarder.homelab.gregross.dev
           description: Self-hosted bookmarking app
+    - N8N:
+        - icon: n8n
+          href: https://n8n.homelab.gregross.dev
+          description: Automation workflow platform
 
 - Life Ops:
     - Todoist:
