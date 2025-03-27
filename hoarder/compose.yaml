@@ -1,3 +1,5 @@
+name: hoarder
+
 services:
   hoarder:
     image: ghcr.io/hoarder-app/hoarder:${HOARDER_VERSION}
