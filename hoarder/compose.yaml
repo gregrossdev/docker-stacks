@@ -1,5 +1,3 @@
-name: hoarder
-
 services:
   hoarder:
     image: ghcr.io/hoarder-app/hoarder:${HOARDER_VERSION}
@@ -47,6 +45,7 @@ services:
 
 volumes:
   hoarder_data:
+    name: hoarder_data
     driver: local
     driver_opts:
       type: none
@@ -54,11 +53,13 @@ volumes:
       device: /mnt/volumes/hoarder_data
 
   hoarder_meilisearch_data:
+    name: hoarder_meilisearch_data
     driver: local
     driver_opts:
       type: none
       o: bind
       device: /mnt/volumes/hoarder_meilisearch_data
+
 
 networks:
   hoarder_network:
